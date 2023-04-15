@@ -10,5 +10,154 @@
     --d-color: #023047; 
     --e-color: #070917; 
     --f-color: #6F7DFB; 
+}
+header .content{
+    width: 1134px;
+    /* height: 59px; */
+    padding-top: 44px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    background: linear-gradient(180deg, #6F7DFB 0%, #26308C 100%);
+    max-width: 1366px;
+    /* height: 768px; */
+}
+nav{
+    
+}
+nav ul{
+    max-width: 534px;
+    margin-left: 635px;
+    color: white;
+}
+nav ul li{
+    width: 78px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+nav ul .butt{
+    padding: 16px 32px;
 
+    width: 155px;
+    height: 59px;
+    border-radius: 24px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    -ms-border-radius: 24px;
+    -o-border-radius: 24px;
+    background-color: #023047;
+}
+.head{
+    margin-top: 126px;
+}
+.left h3{
+    width: 457px;
+    height: 126px;
+    font-weight: 900;
+font-size: 50px;
+line-height: 125%;
+}
+.left p{
+    width: 457px;
+height: 96px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+}
+.Btn{
+    width: 183px; 
+    height: 59px;
+    border-radius: 24px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    -ms-border-radius: 24px;
+    -o-border-radius: 24px;
+    background-color: #DA722C;
+    color: white;
+    
+}
+.Btn img{
+    width: 18px;
+    height: 18px;
+    margin-left: 32px;
+}
+.Btn p{
+    width: 91px;
+    height: 27px;
+    font-size: 16px;
+    margin-top: 16px;
+}
+.right img{
+    width: 446px;
+    height: 582px;
+    
+}
+.archive{
+    position: absolute;
+    background-color: white;
+    color: #023047;
+    top: 0;
+    left: 0;
+    border-radius: 24px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    -ms-border-radius: 24px;
+    -o-border-radius: 24px;
+}
+.k{
+    position: absolute;
+    background-color: white;
+    color: #023047;
+    top: 0;
+    left: 0;
+    width: 206px;
+    height: 90px;
+    border-radius: 24px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    -ms-border-radius: 24px;
+    -o-border-radius: 24px;
+    margin-left: 623px;
+    margin-top: 323px;
+}
+.k h3{
+    margin-left: 70px;
+    width: 65px;
+    height: 45px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 125%;
+}
+.k p{
+    font-size: 16px;
+    width: 139px;
+    font-weight: 400;
+    margin-left: 35px;
+}
+.archive, .two{
+    position: absolute;
+
+width: 183px;
+height: 90px;
+left: 589px;
+top: 562px;
+}
+.star h3{
+    width: 54px;
+    height: 45px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 125%;
+    margin-left:  50px;
+    
+}
+.two .star{
+    margin-top: 5px;
+}
+.two  .star img{
+    width: 44px;
+    height: 44px;
 }
